@@ -15,7 +15,7 @@ role: Second-Year Master Student
 # Organizations/Affiliations
 organizations:
 - name: Department of Statistics
-url: "https://stat.wisc.edu/"
+  url: "https://stat.wisc.edu/"
 - name: University of Wisconsin-Madison
   url: "https://www.wisc.edu/"
 
