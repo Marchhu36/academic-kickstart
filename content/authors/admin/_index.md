@@ -20,8 +20,7 @@ organizations:
   url: "https://www.wisc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-I am a second year master student from Department of Statistics, University of Wisconsin-Madison. My current academic interets lie in Statistical Learning, High-Deminsonal Data Analysis, Causal Inference and statistical real-life application problems. I have been researching on tensor decompostion/regression under the supervision of Prof. Miaoyan Wang from Feburary 2019. Prior to UW-Madison, I obtained my BSc in Statistics degree from the School of Mathematics and Statistics, WuHan University. In my spare time, I love doing sports, particularly playing badminton. 
+bio:  I am a second year master student from Department of Statistics, University of Wisconsin-Madison. My current academic interets lie in Statistical Learning, High-Deminsonal Data Analysis, Causal Inference and statistical real-life application problems. I have been researching on tensor decompostion/regression under the supervision of Prof. Miaoyan Wang from Feburary 2019. Prior to UW-Madison, I obtained my BSc in Statistics degree from the School of Mathematics and Statistics, WuHan University. In my spare time, I love doing sports, particularly playing badminton. 
 
 interests:
 - Statistical Learning
