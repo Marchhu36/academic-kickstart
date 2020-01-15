@@ -20,11 +20,14 @@ organizations:
   url: "https://www.wisc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
+I am a second year master student from Department of Statistics, University of Wisconsin-Madison. My current academic interets lie in Statistical Learning, High-Deminsonal Data Analysis, Causal Inference and statistical real-life application problems. I have been researching on tensor decompostion/regression under the supervision of Prof. Miaoyan Wang from Feburary 2019.
+
+Prior to UW-Madison, I obtained my BSc in Statistics degree from the School of Mathematics and Statistics, WuHan University. In my spare time, I love doing sports, particularly playing badminton. 胡家欣 is my name in Chinese.
 
 interests:
 - Statistical Learning
-- High-Demsional Data Analysis
+- High-Demsional/Tensor Data Analysis
 - Causal Inference
 - Network Analysis, Neuroimage
 
@@ -65,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a second year master student from Department of Statistics, University of Wisconsin-Madison. My current academic interets lie in Statistical Learning, High-Deminsonal Data Analysis, Causal Inference and statistical real-life application problems. I have been researching on tensor decompostion/regression under the supervision of Prof. Miaoyan Wang from Feburary 2019.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to UW-Madison, I obtained my BSc in Statistics degree from the School of Mathematics and Statistics, WuHan University. In my spare time, I love doing sports, particularly playing badminton. 胡家欣 is my name in Chinese.
