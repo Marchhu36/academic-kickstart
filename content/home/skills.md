@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Proficient"
+
   
   [[feature]]
   icon = "chart-bar"
@@ -35,9 +35,9 @@ subtitle = ""
  
   
 [[feature]]
-  icon = "linux"
+  icon = "github"
   icon_pack = "fab"
-  name = "Linux"
+  name = "Github"
  
   
   [[feature]]
@@ -50,6 +50,6 @@ subtitle = ""
   icon = "align-center"
   icon_pack = "fas"
   name = "LaTex"
-  description = "Proficient"
+
 
 +++
