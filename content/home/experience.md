@@ -25,8 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-02-14"
   date_end = ""
   description = """ 
+    
   
-  * Proposed a generalized tensor regression model with covariates on multiple modes and a rank-constrained likelihood estimation for the tensor-form coefficient. 
+  * Proposed a generalized tensor regression model with covariates on multiple modes under low-rank assumption.
   *  Attended general weekly jornual club and summer reading club. Led the group discussion on related topics. Gave 60-minutes presentations for selected paper.
   
   """
