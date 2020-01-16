@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Matlab"
-  description = "Proficient"
+
   #laptop-code
   
   
@@ -32,19 +32,19 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Familiar"  
+ 
   
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "Familiar"
+ 
   
   [[feature]]
   icon = "terminal"
   icon_pack = "fas"
   name = "Shell/Bash"
-  description = "Familiar"
+ 
   
   [[feature]]
   icon = "align-center"
