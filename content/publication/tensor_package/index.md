@@ -1,5 +1,5 @@
 ---
-title: "R package `tensorregress`: Generalized Tensor Regression with Covariates on Multiple Modes"
+title: "R package *tensorregress*: Generalized Tensor Regression with Covariates on Multiple Modes"
 authors:
 - Zhuoyan Xu*
 - Jiaxin Hu*
@@ -17,10 +17,10 @@ publishDate: "2019-10-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: ""
+publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We developed an efficient alternating updating algorithm for generalized tensor-response regression given covariates on multiple modes. The package contains three functions: *tensor_regress* to implement tensor regression model. The inputs are response tensor, multiple covariate matrices, and a desired Tucker rank. The outputs is a constrained MLE for the coefficient tensor ; *sele_rank* to estimate the tucker rank of coefficient tensor based on BIC criterion; *sim_data* to generate response tensor and multiple covariate under different settings.
 
 # Summary. An optional shortened abstract.
 summary: We developed an efficient alternating updating algorithm for generalized tensor-response regression given covariates on multiple modes.
