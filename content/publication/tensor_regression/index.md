@@ -17,8 +17,8 @@ publishDate: "2019-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Under review in the Journal of Machine Learning Research Workshop & Conference Preceeding AISTATS, ICML track*
-publication_short: In *JMLR W & AISTATS & ICML*
+publication: *Under review in the Journal of Machine Learning Research Workshop & Conference Preceeding AISTATS, ICML track*
+publication_short: *JMLR W & AISTATS & ICML*
 
 abstract: We consider the problem of tensor-response regression given covariates on multiple modes. Such data problems arise frequently in applications such as neuroimaging, network analysis, and spatial-temporal modeling. We propose a new family of tensor response regression models that incorporate covariates, and establish the theoretical accuracy guarantees. Unlike earlier methods, our estimation allows high-dimensionality in both the tensor response and the covariate matrices on multiple modes. An efficient alternating updating algorithm is further developed. Our proposal handles a broad range of data types, including continuous, count, and binary observations. Through simulation and applications to two real datasets, we demonstrate the outperformance of our approach over the state-of-art.
 
@@ -27,25 +27,25 @@ summary: We propose a new family of tensor response regression models that incor
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/1910.09499
 url_pdf: https://arxiv.org/pdf/1910.09499.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -63,13 +63,4 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
