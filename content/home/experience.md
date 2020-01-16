@@ -19,17 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Researcher"
-  company = "Department of Statistics, University of Wisconsin-Madison"
+  company = "Advisor: Prof. Miaoyan Wang, Department of Statistics, University of Wisconsin-Madison"
   company_url = "http://pages.stat.wisc.edu/~miaoyan/index.html"
   location = "Madison, WI"
   date_start = "Feb 2019"
   date_end = ""
-  description = "Advisor: Miaoyan Wang"
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """ 
+  * Proposed a generalized tensor regression model with covariates on multiple modes and a rank-constrained likelihood estimation for the tensor-form coefficient. 
+  *  Attended general weekly jornual club and summer reading club. Led the group discussion on related topics. Gave 60-minutes presentations for selected paper.
   """
 
 +++
