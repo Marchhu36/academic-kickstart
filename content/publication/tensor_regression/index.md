@@ -27,7 +27,7 @@ summary: We propose a new family of tensor response regression models that incor
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Arxiv
