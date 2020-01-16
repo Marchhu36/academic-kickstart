@@ -32,10 +32,10 @@ education:
   courses:
   - course: MSc in Statistics (Data Science track)
     institution: University of Wisconsin-Madison
-    year: Sep.2018 - May.2020 (expected)
+    year: Sep 2018 - May 2020 (expected)
   - course: BSc in Statistics
     institution: Wuhan University
-    year: Sep.2015 - Jun.2019
+    year: Sep 2015 - Jun 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
