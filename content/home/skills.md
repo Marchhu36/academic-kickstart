@@ -18,18 +18,38 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Proficient"
+  
+  [[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Matlab"
+  description = "Proficient"
+  #laptop-code
+  
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Familiar"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = "Familiar"
+  
+  [[feature]]
+  icon = "terminal"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Shell/Bash"
+  description = "Familiar"
+  
+  [[feature]]
+  icon = "align-center"
+  icon_pack = "fas"
+  name = "LaTex"
+  description = "Proficient"
 
 +++
