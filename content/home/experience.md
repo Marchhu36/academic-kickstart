@@ -20,12 +20,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Graduate Researcher"
   company = "Department of Statistics, University of Wisconsin-Madison"
-  company = "Prof. Miaoyan Wang"
   company_url = "http://pages.stat.wisc.edu/~miaoyan/index.html"
   location = "Madison, WI"
   date_start = "Feb 2019"
   date_end = ""
-  description = ""
+  description = "Advisor: Miaoyan Wang"
   Responsibilities include:
   
   * Analysing
