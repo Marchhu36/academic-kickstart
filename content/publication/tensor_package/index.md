@@ -1,5 +1,5 @@
 ---
-title: R package `tensorregression` - Generalized Tensor Regression with Covariates on Multiple Modes
+title: R package {{< hl >}}tensorregress{{< /hl >}}. - Generalized Tensor Regression with Covariates on Multiple Modes
 authors:
 - Zhuoyan Xu*
 - Jiaxin Hu*
