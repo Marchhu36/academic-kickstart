@@ -8,11 +8,11 @@ event: Annual Retreat of the Computation and Informatics in Biology and Medicine
 event_url: http://www.cibm.wisc.edu/retreat/
 
 location: Madison, WI.
-date: "2019-10-04T00:00:00Z"
+date: "2019-10-04T12:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2019-10-01T12:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
