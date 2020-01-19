@@ -1,6 +1,6 @@
 ---
 title: Premier League data Analysis
-summary: Investigate the relationship between soccer strategies and game results in Premier League
+summary: Investigate the relationship between soccer strategies and game results in Premier League.
 tags:
 - Machine Learning
 date: "2018-11-01T00:00:00Z"
