@@ -1,6 +1,6 @@
 ---
-title: Comparative Study of Several High-Dimensional Variable Selection Methods in Linear Models
-summary: Undergraduate Dissertation
+title: High-Dimensional Variable Selection
+summary: Undergraduate Dissertation: Comparative Study of Several High-Dimensional Variable Selection Methods in Linear Models
 
 date: "2019-06-01T00:00:00Z"
 
