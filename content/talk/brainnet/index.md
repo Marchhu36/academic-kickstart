@@ -63,4 +63,4 @@ projects:
 slides: example
 ---
 
-Network response model is recently developed in the context of neuroimaging analysis. Data in form of multidimensional arrays, a.e. tensors has been gaining increasing attentions in recent years. Tensor is a effective way to represent the underlying structure in multidimension data. We apply the model to the Human connectome project (HCP) data. Global physical brain connectivity network pattern and local brain regions affected by age/gender can be identified by tensor regression model.  (* equal contribution)
+Network response model is recently developed in the context of neuroimaging analysis. Data in form of multidimensional arrays, a.e. tensors has been gaining increasing attentions in recent years. Tensor is a effective way to represent the underlying structure in multidimension data. We apply the model to the Human Connectome Project (HCP) data. Global physical brain connectivity network pattern and local brain regions affected by age/gender can be identified by tensor regression model.  (* equal contribution)
