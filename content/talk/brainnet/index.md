@@ -4,7 +4,7 @@ authors:
 - Zhuoyan Xu*
 - Jiaxin Hu*
 - Miaoyan Wang
-date: "2019-10-01T00:00:00Z"
+date: "2019-10-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +24,7 @@ abstract: Network response model is recently developed in the context of neuroim
 summary: We apply the tensor-response regression model to the Human connectome project (HCP) data. Global physical brain connectivity network pattern and local brain regions affected by age/gender can be identified by tensor regression model.
 
 tags:
-- Source Themes
+
 featured: false
 
 links:
@@ -59,4 +59,4 @@ projects:
 slides: example
 ---
 
-Network response model is recently developed in the context of neuroimaging analysis. Data in form of multidimensional arrays, a.e. tensors has been gaining increasing attentions in recent years. Tensor is a effective way to represent the underlying structure in multidimension data. We apply the model to the Human connectome project (HCP) data. Global physical brain connectivity network pattern and local brain regions affected by age/gender can be identified by tensor regression model.  (* equal contribution)
+
