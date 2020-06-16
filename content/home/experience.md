@@ -25,10 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-02-14"
   date_end = ""
   description = """ 
-
-#   Content: 
-#  * Proposed a generalized supervised tensor regression model with covariates on multiple modes under low-rank assumption.
-#  *  Attended general weekly jornual club and seminars. Led the group discussion on related topics. Gave 60-minutes presentations for selected paper.
   
   """
 
