@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Second-Year Master Student
+role: pre-Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://www.wisc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a pre-Ph.D. student from Department of Statistics, University of Wisconsin-Madison. My current academic interests lie in Statistical Learning and High Dimensional Data Analysis. I have been researching on tensor decomposition/regression under the supervision of Prof. Miaoyan Wang from February 2019. Prior to UW-Madison, I obtained my BSc in Statistics degree from the School of Mathematics and Statistics, Wuhan University.
+bio: I am a pre-Ph.D. student from Department of Statistics, University of Wisconsin-Madison. My current academic interests lie in Statistical Learning and High Dimensional Data Analysis. I have been researching on tensor decomposition and regression under the supervision of Prof. Miaoyan Wang from February 2019. Prior to UW-Madison, I obtained my BSc in Statistics degree from the School of Mathematics and Statistics, Wuhan University.
 
 interests:
 - Statistical Learning
@@ -66,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I am a pre-Ph.D. student from Department of Statistics, University of Wisconsin-Madison. My current academic interests lie in Statistical Learning and High Dimensional Data Analysis. I have been researching on tensor decomposition/regression under the supervision of Prof. Miaoyan Wang from February 2019.
-
-Prior to UW-Madison, I obtained my BSc in Statistics degree from the School of Mathematics and Statistics, Wuhan University. 
+I am a pre-Ph.D. student from Department of Statistics, University of Wisconsin-Madison. My current academic interests lie in Statistical Learning and High Dimensional Data Analysis. I have been researching on tensor decomposition and regression under the supervision of Prof. Miaoyan Wang from February 2019. Prior to UW-Madison, I obtained my BSc in Statistics degree from the School of Mathematics and Statistics, Wuhan University. 
